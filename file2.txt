@@ -2,3 +2,5 @@ this is my file two for git course
 adding one more line
 adding third line
 adding forth line
+
+bug-fix = line one = 10:53pm
