@@ -3,3 +3,4 @@ I am a fix file which will be used to fix the bug.
 add another bug fix.
 third line bug fixed.
 fourth line bug fixed.
+line added at 10:01pm
