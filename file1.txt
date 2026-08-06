@@ -1,6 +1,2 @@
 this is my file one for git course
 adding one more line
-first line added and git add 1
-second line added and git add 2
-third line added and git add 3
-forth line added and git add 4
