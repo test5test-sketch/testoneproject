@@ -3,3 +3,7 @@ adding one more line
 first line reset testing
 second reset testing
 third reset testing
+first comment for testing squash commit
+second comment for testing squash commit
+third comment for testing squash commit
+fourth comment for testing squash commit
