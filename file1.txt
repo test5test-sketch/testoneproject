@@ -14,7 +14,8 @@ first comment testing for git fsck
 
 first comment for testing the delete function
 
-
+first testing comment for bad commit
+second testing comment for good commit
 second testing comment for good commit
 third testing comment for good commit
 first comment for testing the delete function
@@ -28,3 +29,4 @@ first commit testing for git rebase
 second commit testing for git rebase
 
 third commit testing for git rebase
+
