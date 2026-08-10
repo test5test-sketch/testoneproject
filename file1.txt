@@ -22,6 +22,5 @@ second commit testing for git rebase
 third commit testing for git rebase
 
 1st commit message
-2nd commit message wants to be removed
 3rd commit message
 4th commit message
