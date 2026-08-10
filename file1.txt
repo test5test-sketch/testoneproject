@@ -7,26 +7,16 @@ first comment for testing squash commit
 second comment for testing squash commit
 third comment for testing squash commit
 fourth comment for testing squash commit
-
 third comment
-
 first comment testing for git fsck
-
 first comment for testing the delete function
-
 first testing comment for bad commit
 second testing comment for good commit
 second testing comment for good commit
 third testing comment for good commit
 first comment for testing the delete function
-
-
 one testing for bad commit
 two testing for good commit
-
 first commit testing for git rebase
-
 second commit testing for git rebase
-
 third commit testing for git rebase
-
