@@ -10,3 +10,5 @@ this is the test file
 5th new line adding in VS code
 6th new line adding in github repo
 7th new line adding in github repo
+6th new line adding in VS code
+7th new line adding in VS code
