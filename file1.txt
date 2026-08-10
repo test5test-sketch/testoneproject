@@ -17,3 +17,5 @@ one testing for bad commit
 two testing for good commit
 
 first commit testing for git rebase
+
+second commit testing for git rebase
