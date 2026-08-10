@@ -5,3 +5,6 @@ this is the test file
 3rd new line adding
 2nd new line adding in github repo
 4th new line adding in VS code
+3rd new line adding in github repo
+4th new line adding in github repo
+5th new line adding in VS code
