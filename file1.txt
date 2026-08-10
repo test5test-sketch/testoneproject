@@ -15,3 +15,4 @@ first comment testing for git fsck
 first comment for testing the delete function
 
 first testing comment for bad commit
+second testing comment for good commit
