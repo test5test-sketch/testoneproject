@@ -8,3 +8,5 @@ this is the test file
 3rd new line adding in github repo
 4th new line adding in github repo
 5th new line adding in VS code
+6th new line adding in github repo
+7th new line adding in github repo
