@@ -15,3 +15,5 @@ third testing comment for good commit
 first comment for testing the delete function
 one testing for bad commit
 two testing for good commit
+
+first commit testing for git rebase
