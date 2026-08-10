@@ -9,3 +9,5 @@ third comment for testing squash commit
 fourth comment for testing squash commit
 
 third comment
+
+first comment testing for git fsck
